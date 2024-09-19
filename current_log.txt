@@ -1,0 +1,802 @@
+Thu Sep 19 11:05:40 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:05:44 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:05:44 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:05:44 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:05:44 GMT-03:00 2024 DATA RampManager getAllRampsState took 69ms 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:05:45 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:05:46 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:05:46 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:05:50 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:05:50 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:05:51 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:05:52 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:05:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5769548057ms ago 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:05:56 GMT-03:00 2024 DATA OneAuthMigration Starting first discoverAccounts call to find accounts and make them known to OneAuth's stack 
+Thu Sep 19 11:08:50 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA RampManager getAllRampsState took 12ms 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:08:51 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:08:53 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:08:53 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:08:53 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:08:53 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:08:54 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:08:55 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:08:55 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:08:56 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:08:56 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:08:56 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 11:08:56 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5769727588ms ago 
+Thu Sep 19 11:08:56 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:08:56 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:09:47 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA RampManager getAllRampsState took 18ms 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:09:48 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:09:49 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:09:49 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:09:49 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:09:49 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:09:50 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:09:50 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5769784400ms ago 
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:09:52 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:11:17 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:11:18 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:11:18 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:11:18 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:11:18 GMT-03:00 2024 DATA RampManager getAllRampsState took 20ms 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:11:19 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:11:20 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:11:20 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:11:20 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:11:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:11:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:11:20 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:11:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:11:21 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:11:22 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5769874181ms ago 
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:11:22 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:17:22 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:17:22 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:17:22 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:17:22 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:17:22 GMT-03:00 2024 DATA RampManager getAllRampsState took 10ms 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:17:23 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:17:24 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:17:24 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:17:25 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5770236958ms ago 
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:17:25 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA RampManager getAllRampsState took 7ms 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:29:08 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:29:09 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:29:09 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:29:09 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:29:09 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:29:09 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:29:09 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:29:10 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5770941743ms ago 
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:29:10 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:34:58 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA RampManager getAllRampsState took 5ms 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:34:59 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:35:00 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:35:00 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:35:00 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:35:00 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:35:01 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:35:01 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:35:03 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5771295254ms ago 
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:35:03 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:44:21 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA RampManager getAllRampsState took 10ms 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:44:22 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:44:23 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:44:23 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:44:24 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:44:24 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:44:25 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:44:25 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5771859839ms ago 
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:44:28 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA RampManager getAllRampsState took 7ms 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 11:45:19 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 11:45:20 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 11:45:20 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 11:45:20 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 11:45:20 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 11:45:20 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 11:45:20 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5771912897ms ago 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 11:45:21 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneAuthMigration Starting first discoverAccounts call to find accounts and make them known to OneAuth's stack 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f OneAuth telemetry audienceType: Production 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA ym.d Build model matches: false 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA RampManager getAllRampsState took 26ms 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f OneAuth configuration with MSA Broker ramp: false 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f Oneauth redirectURI : https://login.live.com/oauth20_desktop.srf 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA RampManager getAllRampsState took 5ms 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungMigrationUpsellJob A job is already scheduled 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA RampManager getAllRampsState took 6ms 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA MeridianUpsellJob isEnabled: true, timesShown: 0, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA MeridianUpsellJob There is already a job scheduled 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA PartnerAttributionProvider Provided account isn't a personal account 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungMigrationStateBroadcastReceiver Received SA Migration state Unknown 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungAuthUtils Migration state sync - Unknown 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f OneAuth configured without errors 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA wg.f Configuration of OneAuth (not including migration, etc.) took 172 ms 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA NotificationChannelController initNotificationChannels 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Sep 19 11:45:21 GMT-03:00 2024 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA com.microsoft.authorization.cloudaccounts.c Read ServiceConnections list from preferences: 0 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA com.microsoft.authorization.cloudaccounts.c Read hidden cloud account IDs list from preferences: 0 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA FlorenceZeroQuerySearchExperience initialize - trigger experience check 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungAccountManagerUtils Before a Samsung account is signed in 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungAccountManagerUtils Before a Samsung account is signed in 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA SamsungAuthUtils logMigrationStateChangeQos was invoked on a state update, but no QoS logging is performed because state change was Unknown->Unknown 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneAuthNetworkTasks DiscoverAccounts returned with result0 and with accountnull 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneAuthNetworkTasks DiscoverAccounts completed 
+Thu Sep 19 11:45:21 GMT-03:00 2024 DATA OneAuthMigration MSATokenImport was not performed because no MSA account needed to be migrated 
+Thu Sep 19 11:45:22 GMT-03:00 2024 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Thu Sep 19 11:53:47 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1726757120 now: 1726757627 time to merge: 1 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/databaseidle.cpp:126) 
+Thu Sep 19 11:53:47 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Syncing local favorites with cloud (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/commands/favoritessyncmanager.cpp:50) 
+Thu Sep 19 12:50:33 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA RampManager getAllRampsState took 6ms 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 12:50:34 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 12:50:35 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 12:50:35 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 12:50:35 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 12:50:35 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 12:50:35 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 12:50:35 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 12:50:36 GMT-03:00 2024 I ch.i cleanUpAccountsCache 
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5775827644ms ago 
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 12:50:36 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA OneDSUtils PrivacyGuard is not enabled 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA RampManager getAllRampsState took 7ms 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA wg.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA OneDSUtils OneDS mitigation checks passed 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libOneAuth.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPDFManipulator.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfControl.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfJni.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libPdfium.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5AndroidExtras.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Concurrent.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Core.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libQt5Xml.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libc++_shared.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcore.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcrypto.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libcurl.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libdatastore_shared_counter.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libgoogle_breakpad.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libimage_processing_util_jni.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmaesdk.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libmlkitcommonpipeline.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpcre2-8.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libpixsdk.OfficeLensProductivity.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libsqlite3.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libssl.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libtensorflowlite_jni_gms_client.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libvroom.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libyuv-decoder.so in APK 
+Thu Sep 19 12:51:30 GMT-03:00 2024 DATA ch.u Found library lib/armeabi-v7a/libz.so in APK 
+Thu Sep 19 12:51:31 GMT-03:00 2024 W ch.u Library libQt5Network.so not found in APK 
+Thu Sep 19 12:51:31 GMT-03:00 2024 W ch.u Library libQt5Sql.so not found in APK 
+Thu Sep 19 12:51:31 GMT-03:00 2024 DATA OD3Utils Change in OD3 ramp state. New OD3 enabled state is: false.  Treatment group is NOT_ASSIGNED 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:67) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:89) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 DATA com.microsoft.odsp.m Ramps updated from ECS 
+Thu Sep 19 12:51:31 GMT-03:00 2024 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:3881) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 DATA com.microsoft.odsp.m Removing cached ramps not found on the backend 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  210 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4536) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:145) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 950272 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:150) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:36) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  "/data/user/0/com.microsoft.skydrive/files/OfflineSelection.db" (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:73) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:37) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:168) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:176) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:147) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:152) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:162) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1618) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/photostreamdbhelper.cpp:1626) 
+Thu Sep 19 12:51:31 GMT-03:00 2024 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:486) 
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA wg.f InitOneAuthPreReqs 
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA wg.f migrateADALCacheKey was skipped because it has already been performed 5775883584ms ago 
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA wg.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Thu Sep 19 12:51:32 GMT-03:00 2024 DATA wg.f Initializing OneAuth TSL 
